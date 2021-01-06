@@ -35,10 +35,10 @@
 <summary>정답 확인하기</summary>
 <div markdown="1">
 
-1. border="1"
-2. colspan="2"
-3. rowspan="3"
-4. rowspan="4"
+1. `<label for="receiver">받는 사람 : </label>`
+2. `<label for="title">제목 : </label>`
+3. `<input type="checkbox" id="important" />`
+4. `<textarea cols="100" rows="30" placeholder="자기소개는 짧게 해주세요."></textarea>`
 
 </div>
 </details>
