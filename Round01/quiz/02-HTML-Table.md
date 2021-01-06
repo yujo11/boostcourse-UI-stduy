@@ -53,10 +53,10 @@
 <summary>정답 확인하기</summary>
 <div markdown="1">
 
-1. border="1"
-2. colspan="2"
-3. rowspan="3"
-4. rowspan="4"
+1. `<table border="1">`
+2. `<th colspan="2">충청남도 특산물</th>`
+3. `<th rowspan="3">부여</th>`
+4. `<th rowspan="3">부여</th>`
 
 </div>
 </details>

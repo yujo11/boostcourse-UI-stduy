@@ -26,12 +26,12 @@ HTML은 태그들의 집합이며, 태그는 HTML에서 가장 중요하고 기�
 <summary>정답 확인하기</summary>
 <div markdown="1">
 
-1. br
-2. hr
-3. img
-4. meta
-5. link
-6. input
+1. `<br>`
+2. `<hr>`
+3. `<img>`
+4. `<meta>`
+5. `<link>`
+6. `<input>`
 
 </div>
 </details>
