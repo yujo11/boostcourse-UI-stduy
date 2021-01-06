@@ -6,7 +6,7 @@
 
 다음 빈 칸을 채워 아래와 같은 결과가 나올 수 있도록 코드를 작성해보세요.
 
-![](./img/table.png)
+![](https://github.com/YUJO42/boostcourse-UI-stduy/blob/main/Round01/img/table.png?raw=true)
 
 ```html
 <table _____(1)_____>
