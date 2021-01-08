@@ -1,6 +1,6 @@
 # Mini Project Quiz
 
-## 02. HTML Table
+## 03. HTML From
 
 테이블을 구성하는 방법에는 강의에서 학습한 내용 외에 다른 방법도 있습니다.
 
