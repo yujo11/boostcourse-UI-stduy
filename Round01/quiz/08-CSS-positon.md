@@ -10,6 +10,8 @@ position 속성을 사용해 아래의 화면을 구현하고자 합니다.
 
 결과)
 
+![](https://github.com/YUJO42/boostcourse-UI-stduy/blob/main/Round01/img/css-position.png?raw=true)
+
 ```html
 <!DOCTYPE html>
 <html lang="ko">
@@ -59,17 +61,11 @@ position 속성을 사용해 아래의 화면을 구현하고자 합니다.
 <div markdown="1">
 
 1. fixed
-
 2. 0
-
 3. 0
-
 4. em
-
 5. box-sizing
-
-6. <header> </header>
+6. <header></header>
 
 </div>
 </details>
-````
